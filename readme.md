@@ -6,7 +6,7 @@
 - Multiple architecture tested, 3 in present code
 
 Image example (label: 'scorpion'):
-![alt text](https://github.com/jctaillandier/convNet_imageRecognition/example_data.png)
+![alt text](https://github.com/jctaillandier/convNet_imageRecognition/blob/master/example_data.png)
 
 * Code designed to run in Google Colab notebook
 * Contains  routines to fetch data from one's drive 
